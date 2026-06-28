@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Harshit Singh",
+    "email": "harshit@example.com",
+    "phone": "123-456-1231",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Siddhant",
+    "email": "siddhant@example.com",
+    "phone": "123-456-4674",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "name": "Harsh",
+    "email": "harsh@example.com",
+    "phone": "345-123-7899",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Piyush",
+    "email": "piyush@example.com",
+    "phone": "565-564-1344",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "name": "Rahul",
+    "email": "rahul@example.com",
+    "phone": "343-543-5654",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "name": "Shivam",
+    "email": "shivam@example.com",
+    "phone": "223-234-23232",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "name": "Rhea",
+    "email": "rhea@example.com",
+    "phone": "323-322-3224",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "name": "Rea",
+    "email": "rea@example.com",
+    "phone": "123-324-7890",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "name": "Kavya",
+    "email": "kavya@example.com",
+    "phone": "144-456-7890",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "name": "Manish",
+    "email": "manish@example.com",
+    "phone": "788-456-7890",
+    "gender": "Male"
+  },
+  {
+    "id": 11,
+    "name": "Deepak",
+    "email": "deepak@example.com",
+    "phone": "555-456-7890",
+    "gender": "Male"
+  },
+  {
+    "id": 12,
+    "name": "Aman",
+    "email": "aman@example.com",
+    "phone": "333-456-7890",
+    "gender": "Male"
+  },
+  {
+    "id": 13,
+    "name": "Ayan",
+    "email": "ayan@example.com",
+    "phone": "123-666-7890",
+    "gender": "Male"
+  },
+  {
+    "id": 14,
+    "name": "Reena",
+    "email": "reena@example.com",
+    "phone": "123-555-7890",
+    "gender": "Female"
+  },
+  {
+    "id": 15,
+    "name": "Shweta",
+    "email": "shweta@example.com",
+    "phone": "123-444-7890",
+    "gender": "Female"
+  },
+  {
+    "id": 16,
+    "name": "Swati",
+    "email": "swati@example.com",
+    "phone": "123-333-7890",
+    "gender": "Female"
+  },
+  {
+    "id": 17,
+    "name": "Sneha",
+    "email": "sneha@example.com",
+    "phone": "123-456-3434",
+    "gender": "Female"
+  },
+  {
+    "id": 18,
+    "name": "Sonal",
+    "email": "sonal@example.com",
+    "phone": "123-456-4545",
+    "gender": "Female"
+  },
+  {
+    "id": 19,
+    "name": "Priya",
+    "email": "priya@example.com",
+    "phone": "123-456-5656",
+    "gender": "Female"
+  },
+  {
+    "id": 20,
+    "name": "Riya",
+    "email": "riya@example.com",
+    "phone": "123-456-6767",
+    "gender": "Female"
+  }
+]
